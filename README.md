@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
+# Estudos DIO
 Desafio de projeto sobre Git/GitHub
 
 - Comandos do git: [https://gist.github.com/adammacias/bb358a90a4f4cea50b41]  
